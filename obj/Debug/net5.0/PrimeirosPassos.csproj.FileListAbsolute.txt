@@ -1,0 +1,16 @@
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.exe
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.deps.json
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.runtimeconfig.json
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.runtimeconfig.dev.json
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.dll
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\ref\PrimeirosPassos.dll
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\bin\Debug\net5.0\PrimeirosPassos.pdb
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.csproj.AssemblyReference.cache
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.AssemblyInfoInputs.cache
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.AssemblyInfo.cs
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.csproj.CoreCompileInputs.cache
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.dll
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\ref\PrimeirosPassos.dll
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.pdb
+C:\Users\carla\Documents\Workspace\DigitalInnovationOne\PrimeirosPassos\obj\Debug\net5.0\PrimeirosPassos.genruntimeconfig.cache
